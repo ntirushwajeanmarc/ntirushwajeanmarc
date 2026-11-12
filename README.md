@@ -1,10 +1,8 @@
 <div align="center">
 
-# MARC NTIRUSHWA
+<img src="https://raw.githubusercontent.com/ntirushwajeanmarc/ntirushwajeanmarc/main/assets/banner.svg" alt="MARC NTIRUSHWA — AI engineer, systems builder, CircuitNotion" width="100%" />
 
-### AI ENGINEER · SYSTEMS BUILDER · CIRCUITNOTION
-
-`RWANDA / EARTH` &nbsp;·&nbsp; `STATUS: BUILDING` &nbsp;·&nbsp; `CLEARANCE: OPEN SOURCE`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2400&pause=900&color=00E5FF&background=00000000&center=true&vCenter=true&width=900&height=48&lines=ntirushwa%40circuitnotion%3A~%24%20./status%20--verbose;%3E%20loading%20research%20vectors%3A%20applied%20AI%20%C2%B7%20systems%20%C2%B7%20physical%20computing;%3E%20mode%3A%20research%20-%3E%20prototype%20-%3E%20product%20-%3E%20measure;%3E%20all%20subsystems%20nominal%20%E2%80%94%20shipping" alt="Terminal: status --verbose, loading research vectors, all subsystems nominal" />
 
 **I build intelligent systems and the tools around them.** My work spans applied AI, developer infrastructure, and interactive software—turning difficult problems into useful, testable products.
 
@@ -29,11 +27,15 @@ Engineer and builder at **[CircuitNotion](https://www.circuitnotion.com)**. I wo
 
 My operating loop: identify a real need → design a technical approach → build a usable system → evaluate what happens in practice. I care about useful outcomes, clear engineering, and making complex technology accessible.
 
+<div align="center"><img src="https://raw.githubusercontent.com/ntirushwajeanmarc/ntirushwajeanmarc/main/assets/divider.svg" alt="" width="100%" /></div>
+
 ## `02 / LIVE TELEMETRY`
 
 Real numbers from the public record—no vanity metrics, no invented claims.
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/ntirushwajeanmarc/ntirushwajeanmarc/main/assets/activity-matrix.svg" alt="Contribution matrix, last twelve months: 283 contributions across 47 active days, peak 28 in a single day" width="100%" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ntirushwajeanmarc&theme=github_dark" alt="Profile summary: contributions, repositories and joined date" />
 
@@ -43,6 +45,8 @@ Real numbers from the public record—no vanity metrics, no invented claims.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ntirushwajeanmarc&theme=github_dark&utcOffset=2" alt="Commits by hour of day" />
 
 </div>
+
+<div align="center"><img src="https://raw.githubusercontent.com/ntirushwajeanmarc/ntirushwajeanmarc/main/assets/divider.svg" alt="" width="100%" /></div>
 
 ## `03 / ACTIVE SYSTEMS`
 
@@ -93,12 +97,16 @@ Real numbers from the public record—no vanity metrics, no invented claims.
 
 **Additional signal:** [All repositories](https://github.com/ntirushwajeanmarc?tab=repositories) · [Follow the work](https://github.com/ntirushwajeanmarc?tab=followers)
 
+<div align="center"><img src="https://raw.githubusercontent.com/ntirushwajeanmarc/ntirushwajeanmarc/main/assets/divider.svg" alt="" width="100%" /></div>
+
 ## `04 / ENGINEERING DOCTRINE`
 
 - **Truth over hype.** A system that demos well but fails quietly is not finished. Behaviour gets measured before it gets announced.
 - **Depth in the hard part.** Physics that actually slips, datasets that actually generalise, pipelines that actually run end to end.
 - **Tools as leverage.** Good SDKs and integrations multiply what everyone after you can build—so they deserve the same care as products.
 - **Ship the loop.** Understand the need, shape the approach, build the thing, learn from the result. Repeat.
+
+<div align="center"><img src="https://raw.githubusercontent.com/ntirushwajeanmarc/ntirushwajeanmarc/main/assets/divider.svg" alt="" width="100%" /></div>
 
 ## `05 / RESEARCH VECTORS`
 
@@ -108,6 +116,8 @@ Real numbers from the public record—no vanity metrics, no invented claims.
 | **Developer infrastructure** | Open-source SDKs, integrations, and workflows that make technology easier to use |
 | **Interactive systems** | Game development, simulation, and responsive experiences |
 | **Physical computing** | Embedded projects and software connected to real-world environments |
+
+<div align="center"><img src="https://raw.githubusercontent.com/ntirushwajeanmarc/ntirushwajeanmarc/main/assets/divider.svg" alt="" width="100%" /></div>
 
 ## `06 / LANGUAGE FOOTPRINT`
 
@@ -129,6 +139,8 @@ Primary language across public repositories—not a claim of expertise, just wha
 | GDScript | 1 |
 | Shell | 1 |
 
+<div align="center"><img src="https://raw.githubusercontent.com/ntirushwajeanmarc/ntirushwajeanmarc/main/assets/divider.svg" alt="" width="100%" /></div>
+
 ## `07 / TOOLCHAIN`
 
 <div align="center">
@@ -148,6 +160,8 @@ Primary language across public repositories—not a claim of expertise, just wha
 
 **PRACTICE**<br>
 `Data pipelines` · `API design` · `Open-source SDKs` · `Simulation` · `Embedded Systems`
+
+<div align="center"><img src="https://raw.githubusercontent.com/ntirushwajeanmarc/ntirushwajeanmarc/main/assets/divider.svg" alt="" width="100%" /></div>
 
 ## `08 / CONTACT CHANNELS`
 

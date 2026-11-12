@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="1000" height="280" role="img" aria-label="Animated dossier banner: Marc Ntirushwa, AI engineer and systems builder">
+  <title>MARC NTIRUSHWA — AI ENGINEER / SYSTEMS BUILDER</title>
+  <defs>
+    <linearGradient id="sweep" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0"/>
+      <stop offset="55%" stop-color="#66f6ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="readline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0"/>
+      <stop offset="18%" stop-color="#7df9ff" stop-opacity="0.9"/>
+      <stop offset="82%" stop-color="#7df9ff" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="core" cx="50%" cy="34%" r="62%">
+      <stop offset="0%" stop-color="#0d4a63" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#05070d" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0v26" fill="none" stroke="#0d2433" stroke-width="1"/>
+    </pattern>
+    <style>
+      .mono { font-family: 'SFMono-Regular', 'JetBrains Mono', Consolas, 'DejaVu Sans Mono', monospace; }
+      .label { font-size: 11px; letter-spacing: 3px; fill: #45a3bd; }
+      .title { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-size: 44px; font-weight: 800; letter-spacing: 11px; }
+      .sub { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-size: 13px; font-weight: 600; letter-spacing: 7px; fill: #67e8f9; }
+      .stat { font-size: 11px; letter-spacing: 2.5px; fill: #6f93a4; }
+      .bracket { fill: none; stroke: #1b7f9c; stroke-width: 1.6; }
+    </style>
+  </defs>
+
+  <rect width="1000" height="280" fill="#05070d"/>
+  <rect width="1000" height="280" fill="url(#grid)"/>
+  <rect width="1000" height="280" fill="url(#core)"/>
+
+  <g opacity="0.85">
+    <rect x="0" y="-70" width="1000" height="70" fill="url(#sweep)">
+      <animate attributeName="y" values="-70;280" dur="5s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0" y="-1" width="1000" height="1.5" fill="url(#readline)">
+      <animate attributeName="y" values="-1;279" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g class="bracket">
+    <path d="M18 46V18h28"/>
+    <path d="M954 18h28v28"/>
+    <path d="M18 234v28h28"/>
+    <path d="M982 234v28h-28"/>
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="3.4s" repeatCount="indefinite"/>
+  </g>
+
+  <text class="mono label" x="60" y="34">// DOSSIER 0x1A · OPERATOR PROFILE</text>
+  <text class="mono label" x="940" y="34" text-anchor="end">SECURE CHANNEL</text>
+  <rect x="908" y="26" width="6" height="9" fill="#00e5ff">
+    <animate attributeName="opacity" values="1;0.05;1" dur="1.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <g>
+    <text class="title" x="500" y="134" text-anchor="middle" fill="#ff2d95" opacity="0.55">
+      MARC NTIRUSHWA
+      <animateTransform attributeName="transform" type="translate" values="0 0; -4 -1; 3 1; 0 0" dur="4.2s" repeatCount="indefinite"/>
+    </text>
+    <text class="title" x="500" y="134" text-anchor="middle" fill="#00e5ff" opacity="0.55">
+      MARC NTIRUSHWA
+      <animateTransform attributeName="transform" type="translate" values="0 0; 4 1; -3 -1; 0 0" dur="5.1s" repeatCount="indefinite"/>
+    </text>
+    <text class="title" x="500" y="134" text-anchor="middle" fill="#e8fbff">MARC NTIRUSHWA</text>
+  </g>
+
+  <text class="sub" x="500" y="170" text-anchor="middle">AI ENGINEER · SYSTEMS BUILDER · CIRCUITNOTION</text>
+
+  <g class="mono stat">
+    <text x="500" y="200" text-anchor="middle">RWANDA / EARTH · STATUS: BUILDING · CLEARANCE: OPEN SOURCE</text>
+  </g>
+
+  <g class="mono stat">
+    <text x="60" y="248" fill="#7dd3e8">ntirushwa@circuitnotion:~$</text>
+    <text x="243" y="248" fill="#4a7b8c">tail -f /var/log/ship.log</text>
+    <rect x="470" y="238" width="8" height="13" fill="#67e8f9" opacity="0.9">
+      <animate attributeName="opacity" values="0.9;0;0.9" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g>
+    <text class="mono stat" x="742" y="226" fill="#3f6c7d">COMPUTE</text>
+    <rect x="742" y="231" width="198" height="3" fill="#0f3a4a"/>
+    <rect x="742" y="231" width="60" height="3" fill="#00e5ff" opacity="0.85">
+      <animate attributeName="width" values="48;168;92;140;48" dur="7s" repeatCount="indefinite"/>
+    </rect>
+
+    <text class="mono stat" x="742" y="248" fill="#3f6c7d">MODELS</text>
+    <rect x="742" y="253" width="198" height="3" fill="#0f3a4a"/>
+    <rect x="742" y="253" width="90" height="3" fill="#00e5ff" opacity="0.85">
+      <animate attributeName="width" values="120;54;176;88;120" dur="5.6s" repeatCount="indefinite"/>
+    </rect>
+
+    <text class="mono stat" x="742" y="270" fill="#3f6c7d">PIPELINES</text>
+    <rect x="742" y="275" width="198" height="3" fill="#0f3a4a"/>
+    <rect x="742" y="275" width="150" height="3" fill="#00e5ff" opacity="0.85">
+      <animate attributeName="width" values="160;72;190;110;160" dur="6.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <rect x="0" y="277" width="1000" height="3" fill="url(#readline)" opacity="0.5">
+    <animate attributeName="opacity" values="0.25;0.7;0.25" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
