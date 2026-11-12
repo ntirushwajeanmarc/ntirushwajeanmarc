@@ -8,10 +8,7 @@
 
 **I build intelligent systems and the tools around them.** My work spans applied AI, developer infrastructure, and interactive software—turning difficult problems into useful, testable products.
 
-[![CircuitNotion](https://img.shields.io/badge/CIRCUITNOTION-ACCESS%20PORTAL-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://www.circuitnotion.com)
-[![X](https://img.shields.io/badge/X-@CIRCUITNOTION-111827?style=for-the-badge&logo=x&logoColor=white)](https://x.com/circuitnotion)
-[![GitHub followers](https://img.shields.io/github/followers/ntirushwajeanmarc?style=for-the-badge&logo=github&label=FOLLOW)](https://github.com/ntirushwajeanmarc?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=ntirushwajeanmarc&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS)](https://github.com/ntirushwajeanmarc)
+[![CircuitNotion](https://img.shields.io/badge/CIRCUITNOTION-ACCESS%20PORTAL-0369a1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.circuitnotion.com) [![X](https://img.shields.io/badge/X-@CIRCUITNOTION-111827?style=for-the-badge&logo=x&logoColor=white)](https://x.com/circuitnotion) [![GitHub followers](https://img.shields.io/github/followers/ntirushwajeanmarc?style=for-the-badge&logo=github&label=FOLLOW&labelColor=0369a1)](https://github.com/ntirushwajeanmarc?tab=followers) [![Profile views](https://komarev.com/ghpvc/?username=ntirushwajeanmarc&style=for-the-badge&color=0369a1&label=VIEWS)](https://github.com/ntirushwajeanmarc)
 
 </div>
 
@@ -38,12 +35,12 @@ Real numbers from the public record—no vanity metrics, no invented claims.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ntirushwajeanmarc&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Contribution streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ntirushwajeanmarc&theme=github_dark" alt="Profile summary: contributions, repositories and joined date" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ntirushwajeanmarc&theme=github_dark" alt="Profile summary: stars, commits, pull requests, issues and contributed-to repositories" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ntirushwajeanmarc&theme=github_dark" alt="Repositories per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ntirushwajeanmarc&theme=github_dark" alt="Most committed language" />
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ntirushwajeanmarc&theme=github_dark" alt="Repositories per language" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ntirushwajeanmarc&theme=github_dark" alt="Most committed language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ntirushwajeanmarc&theme=github_dark&utcOffset=2" alt="Commits by hour of day" />
 
 </div>
 
@@ -136,19 +133,9 @@ Primary language across public repositories—not a claim of expertise, just wha
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00e5ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00e5ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00e5ff)
-![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00e5ff)
-![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00e5ff)
-![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=00e5ff)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00e5ff) ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00e5ff) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00e5ff) ![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00e5ff) ![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00e5ff) ![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=00e5ff)
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=00e5ff)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=00e5ff)
-![Godot](https://img.shields.io/badge/Godot-0d1117?style=for-the-badge&logo=godotengine&logoColor=00e5ff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00e5ff)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00e5ff)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00e5ff)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=00e5ff) ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=00e5ff) ![Godot](https://img.shields.io/badge/Godot-0d1117?style=for-the-badge&logo=godotengine&logoColor=00e5ff) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00e5ff) ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00e5ff) ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00e5ff)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00e5ff)
 
 </div>
